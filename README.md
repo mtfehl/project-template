@@ -104,7 +104,7 @@ You are free to share and adapt the material for any purpose, even commercially,
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://mtfehl.github.io/econ_portfolio/"><img src="https://github.com/mtfehl.png?size=100" width="100px;" alt="Michael Fehl"/><br /><sub><b>Michael Fehl</b></sub></a><br /><a href="#ideas-michaelfehl" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-michaelfehl" title="Content">🖋</a><a href="https://github.com/mtfehl/project-template/issues?q=author%3Ahlapp" title="Bug reports">🐛</a></td>
+      <td align="center"><a href="https://mtfehl.github.io/econ_portfolio/"><img src="https://github.com/mtfehl.png?size=300" width="100px;" alt="Michael Fehl"/><br /><sub><b>Michael Fehl</b></sub></a><br /><a href="#ideas-michaelfehl" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-michaelfehl" title="Content">🖋</a><a href="https://github.com/mtfehl/project-template/issues?q=author%3Ahlapp" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
 </table>
